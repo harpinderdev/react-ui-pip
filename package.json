@@ -1,6 +1,6 @@
 {
   "name": "react-ui-pip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Production-ready React Picture-in-Picture component for UI elements (not video). Draggable, SSR-safe, portal-based.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
