@@ -179,10 +179,10 @@ react-dom@^18.2.0:
     loose-envify "^1.1.0"
     scheduler "^0.23.2"
 
-react-ui-pip@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/react-ui-pip/-/react-ui-pip-1.0.0.tgz#df57ea5d5a4e32d9486676c91d84f08feebdbf3f"
-  integrity sha512-Ui5noq0a7TmDmLrg8uEMQCX/EzrTIZ2ZwEX0Q5nYFha5JI3XeCFtEy34N++gfAuyS+YflglXD5O81GEGJD7HLQ==
+react-ui-pip@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-ui-pip/-/react-ui-pip-1.0.1.tgz#958d564981b63f6fb81885abcdb516f1034ea116"
+  integrity sha512-+AAhhTizIO6UyDhgJ/txOzyMD3ucDq1qIZfBEIPJCEOf3HIAxvIXwQHpHxZlNEPGI3uChNdicdh8K383KzdxRA==
 
 react@^18.2.0:
   version "18.3.1"
